@@ -1,11 +1,15 @@
 ## Customer Segmentation System
 
-![Python](https://img.shields.io/badge/Python-3.14-blue?logo=python)
-![Pandas](https://img.shields.io/badge/Pandas-Data%20Analysis-150458?logo=pandas)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-K--Means-F7931E?logo=scikitlearn)
-![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?logo=sqlite)
-![OpenPyXL](https://img.shields.io/badge/OpenPyXL-Excel-217346)
-![License](https://img.shields.io/badge/License-MIT-green)
+<p align="center">
+
+![Python](https://img.shields.io/badge/Python-3.14-blue?style=for-the-badge&logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data_Analysis-150458?style=for-the-badge&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-K--Means-F7931E?style=for-the-badge&logo=scikitlearn)
+![SQLite](https://img.shields.io/badge/SQLite-Database-003B57?style=for-the-badge&logo=sqlite)
+![OpenPyXL](https://img.shields.io/badge/OpenPyXL-Excel-217346?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
+</p>
 
 ---
 
